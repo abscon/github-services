@@ -1,3 +1,5 @@
+This is my rakefile which I call fakefile.
+
 require 'spec/rake/spectask'
 
 Spec::Rake::SpecTask.new('spec') do |t|
